@@ -1,7 +1,5 @@
 # Cpp_STL_SIG
-模拟实现STL
-# Cpp_STL_SIG
-模拟实现STL
+模拟实现C++中STL的空间适配器 
 ---
 实现了
 - 一级空间适配器
